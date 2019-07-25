@@ -1,0 +1,250 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Owner\\Desktop\\New folder (3)\\MSSQL\\WF.Sample\\WF.Sample.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Owner\\Desktop\\New folder (3)\\MSSQL\\WF.Sample.Business\\WF.Sample.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Owner\\Desktop\\New folder (3)\\MSSQL\\WF.Sample.Business\\WF.Sample.Business.csproj",
+        "projectName": "WF.Sample.Business",
+        "projectPath": "C:\\Users\\Owner\\Desktop\\New folder (3)\\MSSQL\\WF.Sample.Business\\WF.Sample.Business.csproj",
+        "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Owner\\Desktop\\New folder (3)\\MSSQL\\WF.Sample.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "WorkflowEngine.NETCore-Core": {
+              "target": "Package",
+              "version": "[4.0.9, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Owner\\Desktop\\New folder (3)\\MSSQL\\WF.Sample.MsSql\\WF.Sample.MsSql.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Owner\\Desktop\\New folder (3)\\MSSQL\\WF.Sample.MsSql\\WF.Sample.MsSql.csproj",
+        "projectName": "WF.Sample.MsSql",
+        "projectPath": "C:\\Users\\Owner\\Desktop\\New folder (3)\\MSSQL\\WF.Sample.MsSql\\WF.Sample.MsSql.csproj",
+        "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Owner\\Desktop\\New folder (3)\\MSSQL\\WF.Sample.MsSql\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\Owner\\Desktop\\New folder (3)\\MSSQL\\WF.Sample.Business\\WF.Sample.Business.csproj": {
+                "projectPath": "C:\\Users\\Owner\\Desktop\\New folder (3)\\MSSQL\\WF.Sample.Business\\WF.Sample.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "WorkflowEngine.NETCore-ProviderForMSSQL": {
+              "target": "Package",
+              "version": "[4.0.9, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Owner\\Desktop\\New folder (3)\\MSSQL\\WF.Sample\\WF.Sample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Owner\\Desktop\\New folder (3)\\MSSQL\\WF.Sample\\WF.Sample.csproj",
+        "projectName": "WF.Sample",
+        "projectPath": "C:\\Users\\Owner\\Desktop\\New folder (3)\\MSSQL\\WF.Sample\\WF.Sample.csproj",
+        "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Owner\\Desktop\\New folder (3)\\MSSQL\\WF.Sample\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Owner\\Desktop\\New folder (3)\\MSSQL\\WF.Sample.Business\\WF.Sample.Business.csproj": {
+                "projectPath": "C:\\Users\\Owner\\Desktop\\New folder (3)\\MSSQL\\WF.Sample.Business\\WF.Sample.Business.csproj"
+              },
+              "C:\\Users\\Owner\\Desktop\\New folder (3)\\MSSQL\\WF.Sample.MsSql\\WF.Sample.MsSql.csproj": {
+                "projectPath": "C:\\Users\\Owner\\Desktop\\New folder (3)\\MSSQL\\WF.Sample.MsSql\\WF.Sample.MsSql.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Autofac.Configuration": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            },
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.CookiePolicy": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.HttpsPolicy": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Session": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.StaticFiles": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.DependencyModel": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NET.Sdk.Razor": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

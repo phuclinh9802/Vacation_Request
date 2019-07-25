@@ -1,0 +1,9 @@
+C:\Users\Owner\Desktop\New folder (3)\MSSQL\WF.Sample.Business\bin\Test\netstandard2.0\WF.Sample.Business.deps.json
+C:\Users\Owner\Desktop\New folder (3)\MSSQL\WF.Sample.Business\bin\Test\netstandard2.0\WF.Sample.Business.dll
+C:\Users\Owner\Desktop\New folder (3)\MSSQL\WF.Sample.Business\bin\Test\netstandard2.0\WF.Sample.Business.pdb
+C:\Users\Owner\Desktop\New folder (3)\MSSQL\WF.Sample.Business\obj\Test\netstandard2.0\WF.Sample.Business.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\New folder (3)\MSSQL\WF.Sample.Business\obj\Test\netstandard2.0\WF.Sample.Business.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\New folder (3)\MSSQL\WF.Sample.Business\obj\Test\netstandard2.0\WF.Sample.Business.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\New folder (3)\MSSQL\WF.Sample.Business\obj\Test\netstandard2.0\WF.Sample.Business.AssemblyInfo.cs
+C:\Users\Owner\Desktop\New folder (3)\MSSQL\WF.Sample.Business\obj\Test\netstandard2.0\WF.Sample.Business.dll
+C:\Users\Owner\Desktop\New folder (3)\MSSQL\WF.Sample.Business\obj\Test\netstandard2.0\WF.Sample.Business.pdb

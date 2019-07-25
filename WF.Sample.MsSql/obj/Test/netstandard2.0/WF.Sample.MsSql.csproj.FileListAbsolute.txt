@@ -1,0 +1,12 @@
+C:\Users\Owner\Desktop\New folder (3)\MSSQL\WF.Sample.MsSql\bin\Test\netstandard2.0\WF.Sample.MsSql.deps.json
+C:\Users\Owner\Desktop\New folder (3)\MSSQL\WF.Sample.MsSql\bin\Test\netstandard2.0\WF.Sample.MsSql.dll
+C:\Users\Owner\Desktop\New folder (3)\MSSQL\WF.Sample.MsSql\bin\Test\netstandard2.0\WF.Sample.MsSql.pdb
+C:\Users\Owner\Desktop\New folder (3)\MSSQL\WF.Sample.MsSql\bin\Test\netstandard2.0\WF.Sample.Business.dll
+C:\Users\Owner\Desktop\New folder (3)\MSSQL\WF.Sample.MsSql\bin\Test\netstandard2.0\WF.Sample.Business.pdb
+C:\Users\Owner\Desktop\New folder (3)\MSSQL\WF.Sample.MsSql\obj\Test\netstandard2.0\WF.Sample.MsSql.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\New folder (3)\MSSQL\WF.Sample.MsSql\obj\Test\netstandard2.0\WF.Sample.MsSql.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\New folder (3)\MSSQL\WF.Sample.MsSql\obj\Test\netstandard2.0\WF.Sample.MsSql.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\New folder (3)\MSSQL\WF.Sample.MsSql\obj\Test\netstandard2.0\WF.Sample.MsSql.AssemblyInfo.cs
+C:\Users\Owner\Desktop\New folder (3)\MSSQL\WF.Sample.MsSql\obj\Test\netstandard2.0\WF.Sample.MsSql.csproj.CopyComplete
+C:\Users\Owner\Desktop\New folder (3)\MSSQL\WF.Sample.MsSql\obj\Test\netstandard2.0\WF.Sample.MsSql.dll
+C:\Users\Owner\Desktop\New folder (3)\MSSQL\WF.Sample.MsSql\obj\Test\netstandard2.0\WF.Sample.MsSql.pdb
